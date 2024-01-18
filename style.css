@@ -1,0 +1,10 @@
+#html {
+    color: black;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
+#body {
+    background-color: white;
+    margin: 10px;
+}
